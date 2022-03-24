@@ -14,6 +14,7 @@ The aim of the project is to simulate a real post office in order to analyze the
 * modello_base: model designed to apply changes in order to improve the experience at the post office;
 * sol_modello_base: first solution applied;
 * sol_modello_PASP: second solution where the queue follows an abstract discipline with priority without preemption (PASP).
+
 The report contains all the results obtained during the simulation of the three models and the graphs that summarize the improvements found after applying the changes.
 
 ## :man_technologist: How to use <a name="how-to-use"/>
